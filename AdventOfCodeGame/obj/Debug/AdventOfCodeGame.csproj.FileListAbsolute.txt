@@ -1,0 +1,8 @@
+D:\Programs\Visual_Studio\repos\AdventOfCode\AdventOfCodeGame\bin\Debug\AdventOfCodeGame.exe.config
+D:\Programs\Visual_Studio\repos\AdventOfCode\AdventOfCodeGame\bin\Debug\AdventOfCodeGame.exe
+D:\Programs\Visual_Studio\repos\AdventOfCode\AdventOfCodeGame\bin\Debug\AdventOfCodeGame.pdb
+D:\Programs\Visual_Studio\repos\AdventOfCode\AdventOfCodeGame\obj\Debug\AdventOfCodeGame.csproj.AssemblyReference.cache
+D:\Programs\Visual_Studio\repos\AdventOfCode\AdventOfCodeGame\obj\Debug\AdventOfCodeGame.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Visual_Studio\repos\AdventOfCode\AdventOfCodeGame\obj\Debug\AdventOfCodeGame.csproj.CoreCompileInputs.cache
+D:\Programs\Visual_Studio\repos\AdventOfCode\AdventOfCodeGame\obj\Debug\AdventOfCodeGame.exe
+D:\Programs\Visual_Studio\repos\AdventOfCode\AdventOfCodeGame\obj\Debug\AdventOfCodeGame.pdb
