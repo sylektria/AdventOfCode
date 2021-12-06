@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "784c2834-3921-4af8-b5ef-9d86a97a1e76": {
+      "ProjectGuid": "784c2834-3921-4af8-b5ef-9d86a97a1e76",
+      "DisplayName": "AdventOfCodeGame",
+      "ColorIndex": 0
+    },
+    "afa06afb-03ab-41c3-8652-277ba6558173": {
+      "ProjectGuid": "afa06afb-03ab-41c3-8652-277ba6558173",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

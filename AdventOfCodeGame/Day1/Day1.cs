@@ -11,24 +11,17 @@ namespace AdventOfCodeGame
     {
         public Day1()
         {
-            string path = Path.Combine(Directory.GetParent(Environment.CurrentDirectory).Parent.FullName, @"Day1\Day1Input.txt");
+            TextReader txtreader = new TextReader();
 
-            string[] Input = File.ReadAllLines(path);
+            List<string> allData = new List<string>();
 
-            List<int> allData = new List<int>();
+            allData = txtreader.ReadText("Day1\\Day1Input.txt");
 
+            Console.WriteLine("Day 1:");
 
-            foreach (string s in Input)
-            {
+            Part1(allData.Select(int.Parse).ToList());
 
-                allData.Add(Int32.Parse(s));
-            }
-
-            Console.WriteLine("Day 1");
-
-            Part1(allData);
-
-            Part2(allData);
+            Part2(allData.Select(int.Parse).ToList());
 
             Console.WriteLine();
         }
