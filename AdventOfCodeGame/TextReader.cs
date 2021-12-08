@@ -24,7 +24,6 @@ namespace AdventOfCodeGame
 
             foreach (string s in Input)
             {
-
                 allData.Add(s);
             }
 
