@@ -19,11 +19,11 @@ namespace AdventOfCodeGame
             Day6 day6 = new Day6();            
             Day7 day7 = new Day7();
             Day8 day8 = new Day8();
-            */
             Day9 day9 = new Day9();
-            /*
             Day10 day10 = new Day10();
+            */
             Day11 day11 = new Day11();
+            /*
             Day12 day12 = new Day12();
             Day13 day13 = new Day13();
             Day14 day14 = new Day14();
