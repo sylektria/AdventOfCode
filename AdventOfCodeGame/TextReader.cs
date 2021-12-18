@@ -21,7 +21,6 @@ namespace AdventOfCodeGame
 
             List<string> allData = new List<string>();
 
-
             foreach (string s in Input)
             {
                 allData.Add(s);
