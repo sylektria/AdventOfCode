@@ -27,12 +27,12 @@ namespace AdventOfCodeGame
 
         private void Part1(List<string> allData)
         {
-
+            Console.WriteLine("Part 1 Solution: ");
         }
 
         private void Part2(List<string> allData)
         {
-
+            Console.WriteLine("Part 2 Solution: ");
         }
     }
 }
